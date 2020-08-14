@@ -1,0 +1,10 @@
+[INFO] us.catalist.fusion:fusion-ui:war:5.25.1-SNAPSHOT
+[INFO] +- ch.qos.logback:logback-classic:jar:1.2.3:compile
+[INFO] |  +- (ch.qos.logback:logback-core:jar:1.2.3:compile - omitted for duplicate)
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.7.25:compile
+[INFO] +- ch.qos.logback:logback-core:jar:1.2.3:compile
+[INFO] +- co.elastic.apm:apm-agent-api:jar:1.15.0:compile
+[INFO] \- co.elastic.apm:apm-agent-attach:jar:1.15.0:compile
+[INFO]    +- net.java.dev.jna:jna:jar:5.3.1:compile
+[INFO]    \- net.java.dev.jna:jna-platform:jar:5.3.1:compile
+[INFO]       \- (net.java.dev.jna:jna:jar:5.3.1:compile - omitted for duplicate)

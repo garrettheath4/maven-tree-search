@@ -1,0 +1,2 @@
+[INFO] us.catalist.fusion:fusion-ui:war:5.25.1-SNAPSHOT
+[INFO] +- ch.qos.logback:logback-classic:jar:1.2.3:compile
